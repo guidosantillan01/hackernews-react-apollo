@@ -11,3 +11,9 @@ cd server
 yarn install
 yarn prisma deploy
 ```
+
+### To run the app
+
+```ssh
+npm start
+```
