@@ -10,6 +10,7 @@
 cd server
 yarn install
 yarn prisma deploy
+yarn start
 ```
 
 ### To run the app
