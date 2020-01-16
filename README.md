@@ -16,5 +16,5 @@ yarn start
 ### To run the app
 
 ```ssh
-npm start
+yarn start
 ```
